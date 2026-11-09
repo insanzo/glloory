@@ -3,7 +3,7 @@
     {
       "id": "usr_master",
       "username": "admin",
-      "password_hash": "c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec",
+      "password_hash": "078a74b7321776e9d452d916af8008837dd5132e7ee34d0d8aa9e6aa986a70bc08d3068704c41d51c35a3aeb1dcb40b6dbc9b189a0c3197bd4da50a5feede65d",
       "role": "Super Commander",
       "created_at": "2026-10-28 22:00:00"
     }
