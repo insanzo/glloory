@@ -4,7 +4,7 @@
       "id": "usr_master",
       "username": "admin",
       "email": "admin@tx999glory.local",
-      "password_hash": "4c0f3b0f8e8f8d3a1e5c2b7a9d4f6e8c1b3a5d7f9e2c4a6b8d0f1e3c5a7b9d2f4e6c8a0b1d3f5e7c9a2b4d6f8e0c1a3b5d7f9e2c4a6b8d0f1e3c5a7b9d2f",
+      "password_hash": "8b7a571c0f9f9a1c61f9a32b22d7b5a1f5c1e8d4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8",
       "role": "Super Commander",
       "credits": 0,
       "api_enabled": true,
